@@ -1,0 +1,21 @@
+itemGroup.MythoCraft=§e§kS§r§6Mytho Craft§e§kS
+
+item.ingot_stygian_iron.name=Stygian Iron Ingot
+item.ingot_celestial_bronze.name=Celestial Bronze Ingot
+item.ingot_imperial_gold.name=Imperial Gold Ingot
+item.ingot_bone_steel.name=Bone Steel Ingot
+item.ingot_silver.name=Silver Ingot
+item.ingot_meteoric_iron.name=Meteoric Iron Ingot
+item.adamant.name=Adamant
+item.ruby.name=Ruby
+item.charred_bone.name=Charred Bone
+item.coal_olympian.name=Olympian Coal
+
+tile.ore_adamant.name=Adamant Ore
+tile.ore_celestial_bronze.name=Celestial Bronze Ore
+tile.forge_of_the_gods.name=Forge of the Gods
+tile.ore_imperial_gold.name=Imperial Gold Ore
+tile.ore_meteoric_iron.name=Meteoric Iron Ore
+tile.ore_ruby.name=Ruby Ore
+tile.ore_silver.name=Silver Ore
+tile.ore_stygian_iron.name=Stygian Iron Ore

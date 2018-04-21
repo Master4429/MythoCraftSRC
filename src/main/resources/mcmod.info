@@ -1,0 +1,28 @@
+[
+{
+  "modid": "mc",
+
+  "name": "MythoCraft",
+
+  "description": "Where Mythology Meets Minecraft!",
+
+  "version": "0.0.1Alpha",
+
+  "mcversion": "1.12.2",
+
+  "url": "",
+
+  "updateUrl": "",
+
+  "authorList": ["EnderMelon01, Mr.PoopyButtHole, Riys Hassam (Master4429), Parakalix, Wil Cox (RapidFire747)"],
+
+  "credits": "The Mythocraft Team",
+
+  "logoFile": "mythocraft.png",
+
+  "screenshots": [],
+
+  "dependencies": []
+
+}
+]
